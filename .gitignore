@@ -1,0 +1,10 @@
+target/
+compiler_dump/
+
+# Nix
+result*
+result-*
+outputs/
+
+# Misc
+.direnv
